@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI/ML Team — Yearly Activity Plan (2026)
 
 Central repository for the GDG AI/ML team's 12-month learning and delivery roadmap — from foundations through NLP & LLMs, Generative AI & Agents, MLOps, capstone projects, and a year-end team startup launch.
@@ -62,3 +63,6 @@ Awarded at months 4, 6, 8, 9, 11 and 12 — see the full Activity Plan for detai
 ## Questions
 
 Open an issue in this repo or reach out to the team lead directly.
+=======
+# GDGOnCampus_AI-ML_Team_Members_Comasts_Attock_Campus
+>>>>>>> ca472ec865af05f5f7d476bed1055fa18b48f3cb
