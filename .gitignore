@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
+
+# Data files (keep the repo light — link to datasets instead of committing large files)
+*.csv
+*.parquet
+data/raw/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
